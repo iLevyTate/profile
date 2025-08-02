@@ -2,26 +2,10 @@
 layout: single
 title: "Curriculum Vitae"
 permalink: /cv/
-header:
-  overlay_color: "#2c3e50"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/cv-header.jpg
-  caption: "Professional Experience & Academic Achievement"
-  actions:
-    - label: "Download PDF"
-      url: "/assets/files/Ben-Kennedy-CV.pdf"
-      class: "btn--light-outline btn--large"
-    - label: "LinkedIn Profile" 
-      url: "https://www.linkedin.com/in/benjaminjoelkennedy"
-      class: "btn--linkedin btn--large"
 author_profile: true
 classes: wide
 toc: true
 toc_sticky: true
-toc_label: "CV Sections"
-toc_icon: "file-alt"
-sidebar:
-  nav: "academic"
 ---
 
 # Ben Kennedy

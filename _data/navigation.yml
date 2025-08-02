@@ -2,51 +2,13 @@
 main:
   - title: "Home"
     url: /
-    description: "Homepage & Overview"
   - title: "About"
     url: /about/
-    description: "Professional Identity & Background"
   - title: "Research"
     url: /research/
-    description: "SCAN/SCANUE & AI Research"
   - title: "Publications"
     url: /publications/
-    description: "Academic Output & Papers"
   - title: "CV"
     url: /cv/
-    description: "Professional Experience"
   - title: "Projects"
     url: /projects/
-    description: "Development Portfolio"
-
-# Research navigation (for research section sidebar)
-research:
-  - title: "Current Research"
-    children:
-      - title: "SCAN System"
-        url: "/research/#scan-synthetic-cognitive-augmentation-network"
-      - title: "SCANUE Platform"
-        url: "/research/#scanue-scan-user-experience"
-      - title: "Evolutionary Mismatch"
-        url: "/research/#evolutionary-mismatch-research"
-  - title: "Research Areas"
-    children:
-      - title: "AI & Cognitive Augmentation"
-        url: "/research/#artificial-intelligence--cognitive-augmentation"
-      - title: "Human-AI Collaboration"
-        url: "/research/#human-ai-collaboration"
-      - title: "Project Management Integration"
-        url: "/research/#project-management--technology-integration"
-
-# Academic navigation
-academic:
-  - title: "Academic Profile"
-    children:
-      - title: "Education"
-        url: "/cv/#education"
-      - title: "Research Experience"
-        url: "/cv/#research-experience"
-      - title: "Publications"
-        url: "/publications/"
-      - title: "Certifications"
-        url: "/cv/#licenses--certifications"
