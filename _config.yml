@@ -1,0 +1,256 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your entire site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'bundle exec jekyll serve'. If you change this file, please restart the server.
+
+# Site Settings
+locale                   : "en-US"
+title                    : "Ben Kennedy"
+title_separator          : "|"
+subtitle                 : "PhD Candidate | AI Researcher & Developer (SCAN/SCANUE/STAC)"
+name                     : "Ben Kennedy"
+description              : "PhD Candidate in Artificial Intelligence specializing in cognitive augmentation through SCAN & SCANUE systems. Empowering human cognition with advanced AI solutions."
+url                      : "https://levytate.github.io"
+baseurl                  : "/profile"
+repository               : "levytate/profile"
+teaser                   : "/assets/images/teaser-default.jpg"
+logo                     : # path of logo image to use in masthead
+masthead_title           : "Ben Kennedy"
+breadcrumbs              : true
+words_per_minute         : 200
+
+# Site Author
+author:
+  name             : "Ben Kennedy"
+  avatar           : "/assets/images/bio-photo.jpg"
+  bio              : "PhD Candidate in AI | Developer of SCAN/SCANUE | Empowering Cognition with Advanced AI"
+  location         : "Jamestown, North Carolina"
+  email            : "benjaminjoelkennedy+linkedin@gmail.com"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:benjaminjoelkennedy+linkedin@gmail.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/benjaminjoelkennedy"
+    - label: "GitHub (Levy Tate)"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/levytate"
+    - label: "University"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.captechu.edu"
+    - label: "Research"
+      icon: "fas fa-fw fa-brain"
+      url: "/research/"
+
+# Site Footer
+footer:
+  links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/benjaminjoelkennedy"
+    - label: "GitHub (Development)"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/levytate"
+    - label: "Capitol Technology University"
+      icon: "fas fa-fw fa-university"
+      url: "https://www.captechu.edu"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: "mailto:benjaminjoelkennedy+linkedin@gmail.com"
+
+# Reading Files
+include:
+  - .htaccess
+  - _pages
+exclude:
+  - "*.sublime-project"
+  - "*.sublime-workspace"
+  - vendor
+  - .asset-cache
+  - .bundle
+  - .jekyll-assets-cache
+  - .sass-cache
+  - assets/js/plugins
+  - assets/js/_main.js
+  - assets/js/vendor
+  - Capfile
+  - CHANGELOG
+  - config
+  - Gemfile
+  - Gruntfile.js
+  - gulpfile.js
+  - LICENSE
+  - log
+  - node_modules
+  - package.json
+  - package-lock.json
+  - Rakefile
+  - README
+  - tmp
+keep_files:
+  - .git
+  - .svn
+encoding: "utf-8"
+markdown_ext: "markdown,mkdown,mkdn,mkd,md"
+
+# Conversion
+markdown: kramdown
+highlighter: rouge
+lsi: false
+excerpt_separator: "\n\n"
+incremental: false
+
+# Markdown Processing
+kramdown:
+  input: GFM
+  hard_wrap: false
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..6
+  smart_quotes: lsquo,rsquo,ldquo,rdquo
+  enable_coderay: false
+
+# Sass/SCSS
+sass:
+  sass_dir: _sass
+  style: compressed # https://sass-lang.com/documentation/file.SASS_REFERENCE.html#output_style
+
+# Outputting
+permalink: /:categories/:title/
+paginate: 5 # amount of posts to show
+paginate_path: /page:num/
+timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+
+# Plugins (previously gems:)
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# mimic GitHub Pages with --safe
+whitelist:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
+
+# Archives
+category_archive:
+  type: liquid
+  path: /categories/
+tag_archive:
+  type: liquid
+  path: /tags/
+
+# HTML Compression
+# - https://jch.penibelst.de/
+compress_html:
+  clippings: all
+  ignore:
+    envs: development
+
+# Theme Settings
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+minimal_mistakes_skin: "contrast" # Professional dark theme for academic/research sites
+
+# Search
+search                   : true
+search_full_content      : true
+search_provider          : lunr
+
+# SEO Related
+google_site_verification : 
+bing_site_verification   : 
+yandex_site_verification : 
+naver_site_verification  : 
+
+# Analytics
+analytics:
+  provider               : false # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : 
+    anonymize_ip         : # true, false (default)
+
+# Social Sharing
+twitter:
+  username               : 
+facebook:
+  username               : 
+  app_id                 : 
+  publisher              : 
+og_image                 : "/assets/images/site-logo.png"
+social:
+  type                   : Person
+  name                   : Ben Kennedy
+  links:
+    - "https://www.linkedin.com/in/benjaminjoelkennedy"
+    - "https://github.com/levytate"
+
+# Defaults
+defaults:
+  # _posts
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      read_time: true
+      comments: false
+      share: true
+      related: true
+      show_date: true
+      toc: true
+      toc_sticky: true
+  # _pages
+  - scope:
+      path: "_pages"
+      type: pages
+    values:
+      layout: single
+      author_profile: true
+      classes: wide
+      toc: true
+      toc_sticky: true
+      share: true
+  # _research
+  - scope:
+      path: ""
+      type: research
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      classes: wide
+      toc: true
+      toc_sticky: true
+  # _projects
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      classes: wide
+      toc: true
+      toc_sticky: true
+
+# Collections
+collections:
+  research:
+    output: true
+    permalink: /:collection/:name/
+  projects:
+    output: true
+    permalink: /:collection/:name/
