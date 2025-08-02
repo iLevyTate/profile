@@ -2,17 +2,10 @@
 layout: single
 title: "About"
 permalink: /about/
-header:
-  overlay_color: "#667eea"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/about-header.jpg
-  caption: "Bridging AI Research and Practical Applications"
 author_profile: true
 classes: wide
 toc: true
 toc_sticky: true
-toc_label: "About Overview"
-toc_icon: "user-graduate"
 ---
 
 # About Ben Kennedy

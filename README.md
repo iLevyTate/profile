@@ -1,96 +1,111 @@
-# Levy Tate - Academic & Professional Profile
+# Ben Kennedy - Personal GitHub Profile
 
-This repository contains the source code for my professional GitHub Pages website, showcasing my academic research, professional projects, and technical expertise.
+This is my personal GitHub Pages website serving as a comprehensive academic and professional portfolio. As a PhD Candidate in Artificial Intelligence at Capitol Technology University and published author, this site showcases my research, professional experience, and development projects.
 
-## Website Structure
+## About This Profile
 
-- **Home**: Professional introduction and overview
-- **CV**: Comprehensive curriculum vitae
-- **Research**: Research projects and academic work
-- **Publications**: Academic publications and scholarly output
-- **Projects**: Personal and professional technical projects
-- **About**: Detailed background and professional philosophy
+This site represents **Ben Kennedy** (academic/professional identity) and **Levy Tate** (development alias) - providing a complete view of my work across AI research, project management, and software development.
 
-## Theme & Technology
+### Key Sections
+- **Research**: SCAN/SCANUE cognitive augmentation systems and published work with IGI Global
+- **Professional Experience**: 10+ years in project management across healthcare, laboratory, and technology sectors  
+- **Development Projects**: Open source work under the Levy Tate alias
+- **Academic Background**: PhD in AI, MS in IT Management, and professional certifications
 
-- **Theme**: [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/)
-- **Platform**: GitHub Pages with Jekyll
-- **Configuration**: Optimized for academic and professional profiles
+## Technology Stack
+
+- **Platform**: GitHub Pages (free hosting for personal repositories)
+- **Generator**: Jekyll static site generator
+- **Theme**: Minimal Mistakes (reliable, professional academic theme)
+- **Content**: Markdown files for easy maintenance
+
+## Best Practices for Personal GitHub Profile Sites
+
+### 1. **Repository Setup**
+- Use `username.github.io` for main profile or `username.github.io/repositoryname` for project-specific sites
+- Enable GitHub Pages in repository settings
+- Choose a reliable, professional theme (Minimal Mistakes is excellent for academic/professional profiles)
+
+### 2. **Content Strategy**
+- **Be Authentic**: Include real achievements, certifications, and work experience
+- **Stay Current**: Regular updates to reflect new projects, publications, and experience
+- **Professional Focus**: Balance personal branding with professional credibility
+- **Multiple Identities**: Clearly explain any aliases or different professional identities
+
+### 3. **Technical Considerations**
+- **Standard Layouts**: Use theme defaults rather than complex custom layouts for reliability
+- **Mobile Responsive**: Ensure professional appearance across all devices
+- **Fast Loading**: Minimal images and optimized content for quick access
+- **SEO Friendly**: Proper meta tags and structured content for discoverability
+
+## Personal Profile Site Architecture
+
+### Core Content Strategy
+- **Homepage**: Clear value proposition and key achievements
+- **About**: Professional identity and dual-alias explanation (Ben Kennedy / Levy Tate)
+- **CV/Resume**: Comprehensive work history with metrics and achievements
+- **Research**: Academic work, publications, and current PhD progress
+- **Projects**: Development portfolio showcasing technical skills
+- **Publications**: Academic output with proper citations and links
+
+### Professional Benefits
+- **Career Advancement**: Centralized portfolio for job applications and networking
+- **Academic Credibility**: Proper showcase of research and publications
+- **Technical Demonstration**: Live examples of development skills
+- **Professional Networking**: Easy sharing for conferences, collaborations, and opportunities
+- **Personal Branding**: Consistent professional presence across platforms
+
+### Maintenance Strategy
+- **Regular Updates**: Monthly review and updates of achievements and projects
+- **Content Accuracy**: Ensure all information remains current and factual
+- **Link Maintenance**: Regular checks of external links (LinkedIn, publications, projects)
+- **Performance Monitoring**: Periodic review of site speed and functionality
+
+## Key Success Factors for Personal GitHub Profiles
+
+### 1. **Professional Credibility**
+- Real work experience with quantifiable achievements
+- Proper academic credentials and certifications
+- Published work and research with proper citations
+- Professional contact information and LinkedIn integration
+
+### 2. **Technical Competence**  
+- Working GitHub repositories demonstrating actual skills
+- Clean, professional site design and functionality
+- Proper version control and documentation practices
+- Regular commits showing ongoing development activity
+
+### 3. **Career Integration**
+- Alignment between GitHub profile, LinkedIn, and resume
+- Clear narrative connecting academic work, professional experience, and personal projects
+- Strategic use of aliases or multiple identities when appropriate
+- Professional networking opportunities and collaboration invitations
 
 ## Local Development
 
-To run this site locally:
+For updating this site:
 
-1. **Clone the repository**
-   ```bash
-   git clone https://github.com/levytate/profile.git
-   cd profile
-   ```
+```bash
+# Clone repository
+git clone https://github.com/levytate/profile.git
+cd profile
 
-2. **Install dependencies**
-   ```bash
-   bundle install
-   ```
+# Install Jekyll dependencies  
+bundle install
 
-3. **Run the site locally**
-   ```bash
-   bundle exec jekyll serve
-   ```
+# Run locally for testing
+bundle exec jekyll serve
 
-4. **View in browser**
-   Navigate to `http://localhost:4000`
-
-## Repository Structure
-
-```
-├── _config.yml           # Site configuration
-├── _data/
-│   └── navigation.yml     # Navigation menu structure
-├── _pages/               # Main site pages
-│   ├── about.md
-│   ├── cv.md
-│   ├── projects.md
-│   ├── publications.md
-│   └── research.md
-├── index.md              # Homepage
-├── Gemfile               # Ruby dependencies
-└── README.md             # This file
+# View at http://localhost:4000
 ```
 
-## Features
+## Site Performance
 
-- **Responsive Design**: Mobile-friendly layout
-- **Academic Focus**: Structured for academic and research profiles
-- **Professional Presentation**: Clean, minimal design suitable for professional use
-- **SEO Optimized**: Built-in SEO features and social media integration
-- **No Blog Features**: Streamlined for profile presentation (no blog functionality)
-- **Image-Free**: Designed to work without images initially
-
-## Customization
-
-Key areas to customize:
-
-1. **_config.yml**: Update personal information, social links, and site settings
-2. **_data/navigation.yml**: Modify navigation menu items
-3. **Individual pages**: Update content in `_pages/` directory and `index.md`
-4. **Styling**: Customize theme through `_sass/` directory (if needed)
-
-## Deployment
-
-This site is configured for automatic deployment to GitHub Pages:
-
-1. Push changes to the `main` branch
-2. GitHub Pages will automatically build and deploy the site
-3. Site will be available at `https://levytate.github.io/profile`
-
-## Contact & Collaboration
-
-This professional profile is designed to facilitate academic and professional connections. For collaboration opportunities or questions about the projects and research presented here, please use the contact information provided on the website.
-
-## License
-
-This repository is licensed under the MIT License. The Minimal Mistakes theme is also licensed under MIT License.
+- **Live Site**: [https://levytate.github.io/profile](https://levytate.github.io/profile)
+- **Hosting**: GitHub Pages (free, reliable, professional)
+- **Updates**: Push to main branch for automatic deployment
+- **Backup**: All content version-controlled in Git
 
 ---
 
-*Website: [https://levytate.github.io/profile](https://levytate.github.io/profile)*
+**Professional Contact**: [benjaminjoelkennedy+linkedin@gmail.com](mailto:benjaminjoelkennedy+linkedin@gmail.com) | [LinkedIn](https://www.linkedin.com/in/benjaminjoelkennedy)

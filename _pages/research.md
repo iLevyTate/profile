@@ -2,23 +2,10 @@
 layout: single
 title: "Research"
 permalink: /research/
-header:
-  overlay_color: "#764ba2"
-  overlay_filter: "0.5" 
-  overlay_image: /assets/images/research-header.jpg
-  caption: "Advancing Human Cognition Through AI"
-  actions:
-    - label: "View Publications"
-      url: "/publications/"
-      class: "btn--light-outline btn--large"
 author_profile: true
 classes: wide
 toc: true
 toc_sticky: true
-toc_label: "Research Areas"
-toc_icon: "brain"
-sidebar:
-  nav: "research"
 ---
 
 # Research Portfolio

@@ -2,23 +2,10 @@
 layout: single
 title: "Publications"
 permalink: /publications/
-header:
-  overlay_color: "#8e44ad"
-  overlay_filter: "0.5"
-  overlay_image: /assets/images/publications-header.jpg
-  caption: "Academic Output & Research Impact"
-  actions:
-    - label: "View Research"
-      url: "/research/"
-      class: "btn--light-outline btn--large"
 author_profile: true
 classes: wide
 toc: true
 toc_sticky: true
-toc_label: "Publication Types"
-toc_icon: "book-open"
-sidebar:
-  nav: "academic"
 ---
 
 # Publications & Academic Output
