@@ -80,19 +80,19 @@ A comprehensive platform designed to help individuals and teams track goals, mon
 ### Research Project Integration
 My personal projects often serve as testbeds and implementations for research concepts, creating a synergy between academic investigation and practical application.
 
-#### [Scanuev22](https://github.com/levytate/Scanuev22) Implementation
-- **Research Application**: Practical implementation of research methodologies
-- **Technical Validation**: Real-world testing of theoretical concepts
-- **Community Contribution**: Open-source implementation for research community use
-- **Documentation**: Comprehensive guides for research replication
-
-#### [STAC](https://github.com/levytate/stac) Development
-- **Standards Implementation**: Adherence to SpatioTemporal Asset Catalog standards
+#### [STAC](https://github.com/iLevyTate/stac) Development
+- **Standards Implementation**: Multi-turn conversational SNN (Spiking Neural Network) implementation
 - **Performance Optimization**: Enhanced performance for large-scale data operations
 - **Integration Solutions**: Cross-platform compatibility and API development
 - **Community Standards**: Contribution to open standards and best practices
 
-#### [SCAN-Resources](https://github.com/levytate/SCAN-Resources) Collection
+#### [Scanuev22](https://github.com/iLevyTate/scanue-v22) Implementation
+- **Research Application**: Brain-inspired AI systems and prefrontal cortex simulation
+- **Technical Validation**: Real-world testing of theoretical concepts
+- **Community Contribution**: Open-source implementation for research community use
+- **Documentation**: Comprehensive guides for research replication
+
+#### [SCAN-Resources](https://github.com/iLevyTate/SCAN-Resources) Collection
 - **Resource Curation**: Systematic collection and validation of research resources
 - **Community Service**: Providing valuable resources to the research community
 - **Quality Assurance**: Rigorous validation and quality control processes
@@ -131,7 +131,7 @@ My personal projects often serve as testbeds and implementations for research co
 ## Open Source Contributions
 
 ### Community Projects
-Primary open source contributions are through personal projects: StratoSort, Achievaim, and SCAN-Resources available on GitHub.
+Primary open source contributions are through personal projects: StratoSort, Achievaim, STAC, Scanuev22, and SCAN-Resources available on GitHub.
 
 ### Standards & Best Practices
 - **Code Quality**: Commitment to high-quality, well-documented code

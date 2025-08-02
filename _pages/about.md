@@ -109,11 +109,13 @@ My current technical work includes:
 **Academic Research Projects (Ben Kennedy):**
 - **SCAN (Synthetic Cognitive Augmentation Network)**: AI system simulating prefrontal cortex functions
 - **SCANUE**: Web-based extension providing real-time cognitive support
-- **[SCAN-Resources](https://github.com/levytate/SCAN-Resources)**: Development tools and resources for cognitive augmentation research
 
 **Open Source Development Projects (Levy Tate):**
 - **[StratoSort](https://github.com/levytate/StratoSort)**: AI-powered file organization system
 - **[Achievaim](https://github.com/levytate/Achievaim)**: Goal tracking and achievement management platform
+- **[STAC](https://github.com/iLevyTate/stac)**: Multi-turn conversational SNN implementation
+- **[Scanuev22](https://github.com/iLevyTate/scanue-v22)**: Brain-inspired AI systems and cognitive augmentation
+- **[SCAN-Resources](https://github.com/iLevyTate/SCAN-Resources)**: Development tools and resources for cognitive augmentation research
 
 ### Professional Development
 I am actively engaged in:

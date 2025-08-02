@@ -113,8 +113,8 @@ Extensive project management experience across healthcare, laboratory, pharmacol
 ### Current Collaborations
 - **Capitol Technology University**: PhD research program in artificial intelligence with focus on cognitive augmentation
 
-### Open Collaboration Opportunities
-I am interested in collaborative research opportunities in cognitive augmentation and AI research.
+### Collaboration Interests
+Available for collaborative research opportunities in cognitive augmentation, AI systems development, and human-computer interaction research.
 
 ---
 
@@ -133,20 +133,17 @@ I am interested in collaborative research opportunities in cognitive augmentatio
 
 ## Future Research Directions
 
-### Research Goals
-- Complete PhD dissertation focusing on cognitive augmentation systems
-- Continue development of SCAN/SCANUE research
-
-### Emerging Opportunities
-- Further development and application of cognitive augmentation technology
-- Cross-disciplinary collaboration between AI, psychology, and project management
+### Active Research Goals
+- Complete PhD dissertation on cognitive augmentation systems
+- Advance SCAN/SCANUE development with clinical applications
+- Explore enterprise deployment of cognitive enhancement technology
 
 ---
 
 ## Research Resources & Data
 
 ### Open Data & Resources
-Development projects are available through GitHub repositories including StratoSort, Achievaim, and SCAN-Resources projects under the Levy Tate alias.
+Development projects are available through GitHub repositories including StratoSort, Achievaim, STAC, Scanuev22, and SCAN-Resources projects under the Levy Tate alias.
 
 ### Research Support
 For questions about research projects, collaboration opportunities, or access to research resources, please feel free to reach out through the contact information provided.

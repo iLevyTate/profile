@@ -51,7 +51,7 @@ toc_sticky: true
 **Capitol Technology University** | Maryland | April 2024 - Present
 - Leading research initiatives in synthetic cognitive augmentation and human-AI collaboration
 - Developing AI systems that simulate prefrontal cortex functions for enhanced decision-making
-- Working on publication "Beyond Intelligence: The Synthetic Cognitive Augmentation Network Using Experts"
+- Published "Beyond Intelligence: The Synthetic Cognitive Augmentation Network Using Experts" with IGI Global
 - Investigating evolutionary mismatch solutions through cognitive enhancement technology
 
 ---
@@ -205,6 +205,9 @@ toc_sticky: true
 ### Development Projects
 - **StratoSort**: AI-powered file organization system with intelligent categorization
 - **Achievaim**: Goal tracking and achievement management platform
+- **STAC**: Multi-turn conversational SNN implementation
+- **Scanuev22**: Brain-inspired AI systems and cognitive augmentation
+- **SCAN-Resources**: Development tools and resources for cognitive augmentation research
 
 ---
 
