@@ -45,7 +45,9 @@ My technical development work under the **Levy Tate** alias includes:
 
 - **[StratoSort](https://github.com/levytate/StratoSort)**: AI-powered file organization system
 - **[Achievaim](https://github.com/levytate/Achievaim)**: Goal tracking and achievement management platform
-- **[SCAN-Resources](https://github.com/levytate/SCAN-Resources)**: Development tools and resources for cognitive augmentation research
+- **[STAC](https://github.com/iLevyTate/stac)**: Multi-turn conversational SNN implementation
+- **[Scanuev22](https://github.com/iLevyTate/scanue-v22)**: Brain-inspired AI systems and cognitive augmentation
+- **[SCAN-Resources](https://github.com/iLevyTate/SCAN-Resources)**: Development tools and resources for cognitive augmentation research
 
 ---
 

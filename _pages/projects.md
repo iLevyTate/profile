@@ -22,8 +22,7 @@ An advanced desktop application that revolutionizes file organization through ar
 #### Project Overview
 - **Purpose**: Automated file organization using AI to analyze content and suggest intelligent categorization
 - **Technology Stack**: Electron, React, Node.js, Ollama AI models, TypeScript
-- **Development Timeline**: [Start Date] - [Current Status]
-- **Status**: [Active Development / Beta / Production Ready]
+- **Status**: Active Development
 
 #### Key Features
 - **AI-Powered Analysis**: Utilizes local AI models for content-aware file categorization
@@ -38,12 +37,11 @@ An advanced desktop application that revolutionizes file organization through ar
 - **Security Features**: Sandboxed execution and secure file handling
 - **Extensible Architecture**: Modular design allowing for easy feature additions
 
-#### Impact & Recognition
-- **User Adoption**: [Usage statistics if available]
-- **Community Interest**: [GitHub stars, forks, or community engagement]
-- **Technical Innovation**: [Unique technical solutions or approaches developed]
+#### Project Status
+- **Status**: Active development
+- **Availability**: Open source on GitHub
 
-**[View on GitHub](https://github.com/levytate/StratoSort)** | **[Live Demo](URL if available)** | **[Documentation](URL if available)**
+**[View on GitHub](https://github.com/levytate/StratoSort)**
 
 ---
 
@@ -54,9 +52,7 @@ A comprehensive platform designed to help individuals and teams track goals, mon
 
 #### Project Overview
 - **Purpose**: Systematic goal management with data-driven insights and progress tracking
-- **Technology Stack**: [Specify technologies used]
-- **Development Timeline**: [Timeline information]
-- **Target Users**: [Individual users, teams, organizations]
+- **Target Users**: Individual users and teams
 
 #### Core Functionality
 - **Goal Setting Framework**: Structured approach to defining and categorizing objectives
@@ -72,12 +68,10 @@ A comprehensive platform designed to help individuals and teams track goals, mon
 - **Data Export**: Comprehensive reporting and data export capabilities
 
 #### Technical Implementation
-- **Architecture**: [Description of system architecture and design patterns]
-- **Data Management**: [Database design and data handling approaches]
-- **User Experience**: [UI/UX design principles and accessibility features]
-- **Security**: [Security measures and privacy protections implemented]
+- **Development**: Web-based application with modern frameworks
+- **Focus**: User-friendly interface and reliable data management
 
-**[View on GitHub](https://github.com/levytate/Achievaim)** | **[Project Documentation](URL if available)**
+**[View on GitHub](https://github.com/levytate/Achievaim)**
 
 ---
 
@@ -86,19 +80,19 @@ A comprehensive platform designed to help individuals and teams track goals, mon
 ### Research Project Integration
 My personal projects often serve as testbeds and implementations for research concepts, creating a synergy between academic investigation and practical application.
 
-#### [Scanuev22](https://github.com/levytate/Scanuev22) Implementation
-- **Research Application**: Practical implementation of research methodologies
-- **Technical Validation**: Real-world testing of theoretical concepts
-- **Community Contribution**: Open-source implementation for research community use
-- **Documentation**: Comprehensive guides for research replication
-
-#### [STAC](https://github.com/levytate/stac) Development
-- **Standards Implementation**: Adherence to SpatioTemporal Asset Catalog standards
+#### [STAC](https://github.com/iLevyTate/stac) Development
+- **Standards Implementation**: Multi-turn conversational SNN (Spiking Neural Network) implementation
 - **Performance Optimization**: Enhanced performance for large-scale data operations
 - **Integration Solutions**: Cross-platform compatibility and API development
 - **Community Standards**: Contribution to open standards and best practices
 
-#### [SCAN-Resources](https://github.com/levytate/SCAN-Resources) Collection
+#### [Scanuev22](https://github.com/iLevyTate/scanue-v22) Implementation
+- **Research Application**: Brain-inspired AI systems and prefrontal cortex simulation
+- **Technical Validation**: Real-world testing of theoretical concepts
+- **Community Contribution**: Open-source implementation for research community use
+- **Documentation**: Comprehensive guides for research replication
+
+#### [SCAN-Resources](https://github.com/iLevyTate/SCAN-Resources) Collection
 - **Resource Curation**: Systematic collection and validation of research resources
 - **Community Service**: Providing valuable resources to the research community
 - **Quality Assurance**: Rigorous validation and quality control processes
@@ -137,14 +131,7 @@ My personal projects often serve as testbeds and implementations for research co
 ## Open Source Contributions
 
 ### Community Projects
-- **Contribution Type**: [Bug fixes, feature additions, documentation improvements]
-- **Projects Contributed To**: [Names of open source projects]
-- **Community Impact**: [Description of contributions and their impact]
-
-### Maintainer Roles
-- **Project Maintenance**: [Any projects where you serve as a maintainer]
-- **Community Leadership**: [Leadership roles in open source communities]
-- **Mentorship**: [Guidance provided to other contributors]
+Primary open source contributions are through personal projects: StratoSort, Achievaim, STAC, Scanuev22, and SCAN-Resources available on GitHub.
 
 ### Standards & Best Practices
 - **Code Quality**: Commitment to high-quality, well-documented code
@@ -155,92 +142,25 @@ My personal projects often serve as testbeds and implementations for research co
 
 ## Professional Work Examples
 
-### Enterprise Solutions
-While respecting confidentiality agreements, here are examples of professional work types and achievements:
-
-#### System Integration Projects
-- **Scope**: [General description without proprietary details]
-- **Technologies**: [Technology stacks and tools used]
-- **Outcomes**: [Results achieved and impact on organizations]
-- **Skills Demonstrated**: [Technical and professional skills utilized]
-
-#### Performance Optimization Initiatives
-- **Challenge**: [Types of performance challenges addressed]
-- **Approach**: [General methodologies and strategies employed]
-- **Results**: [Improvements achieved and metrics where possible]
-- **Learning**: [Key insights and skills developed]
-
-#### Team Leadership & Collaboration
-- **Leadership Roles**: [Types of leadership responsibilities]
-- **Team Size**: [Scale of teams managed or collaborated with]
-- **Project Management**: [Methodologies and tools used]
-- **Outcomes**: [Success metrics and team achievements]
+Professional project work is detailed in the CV section, including extensive experience in project management across healthcare, laboratory, pharmacology, software development, and EDI projects with documented achievements such as 22% faster project delivery and 66% productivity improvements.
 
 ---
 
 ## Experimental & Learning Projects
 
-### Technology Exploration
-Projects undertaken to explore new technologies, methodologies, or concepts:
-
-#### [Project Name]: [Technology Focus]
-- **Learning Objective**: [What new skills or technologies were explored]
-- **Implementation**: [Brief description of what was built or tested]
-- **Insights Gained**: [Key learning outcomes and discoveries]
-- **Applications**: [How this learning applies to other work]
-
-#### [Another Experimental Project]
-- **Research Question**: [What problem or question was being explored]
-- **Methodology**: [Approach taken to investigation]
-- **Results**: [Findings and conclusions]
-- **Future Applications**: [Potential applications of insights gained]
-
-### Skill Development Initiatives
-- **Continuous Learning**: [Examples of ongoing skill development]
-- **Certification Pursuits**: [Professional certifications or credentials pursued]
-- **Workshop Participation**: [Technical workshops or training attended]
-- **Knowledge Sharing**: [Ways you share learning with others]
+Learning and experimentation are reflected in ongoing PhD research in cognitive augmentation systems and in the various professional certifications obtained, as detailed in the CV section.
 
 ---
 
 ## Project Development Methodology
 
-### Development Approach
-- **Planning Process**: [How projects are planned and scoped]
-- **Development Methodology**: [Agile, waterfall, or hybrid approaches used]
-- **Quality Assurance**: [Testing and quality control processes]
-- **Documentation Standards**: [Approach to project documentation]
-
-### Tools & Technologies
-- **Development Environment**: [IDEs, tools, and development setup]
-- **Version Control**: [Git workflows and collaboration practices]
-- **Testing Frameworks**: [Testing tools and methodologies employed]
-- **Deployment Processes**: [CI/CD pipelines and deployment strategies]
-
-### Project Management
-- **Timeline Management**: [Approach to project scheduling and milestones]
-- **Resource Allocation**: [How time and resources are managed]
-- **Risk Management**: [Strategies for identifying and mitigating risks]
-- **Success Metrics**: [How project success is measured and evaluated]
+Development approach incorporates Agile and Scrum methodologies with focus on quality assurance and proper version control using Git, as demonstrated through professional project management experience and technical skill development.
 
 ---
 
 ## Future Project Plans
 
-### Upcoming Initiatives
-- **[Planned Project Name]**: [Brief description and timeline]
-- **[Another Planned Project]**: [Scope and expected outcomes]
-- **[Research Integration Project]**: [How future projects will integrate with research]
-
-### Technology Interests
-- **Emerging Technologies**: [New technologies to explore and implement]
-- **Skill Development**: [Areas for continued learning and growth]
-- **Collaboration Opportunities**: [Interest in collaborative projects]
-
-### Community Contributions
-- **Open Source Goals**: [Plans for open source contributions]
-- **Knowledge Sharing**: [Ways to share expertise with the community]
-- **Mentorship**: [Interest in mentoring others in technology and research]
+Future development work will continue to support PhD research in cognitive augmentation systems and explore integration opportunities between AI research and practical applications.
 
 ---
 
@@ -259,6 +179,6 @@ For project collaboration opportunities, technical discussions, or questions abo
 
 ---
 
-*Projects portfolio last updated: [Current Date]*
+*Projects portfolio last updated: December 2024*
 
 **Note**: All project links lead to publicly available repositories or demonstrations. For additional project information, technical details, or collaboration discussions, please don't hesitate to make contact.

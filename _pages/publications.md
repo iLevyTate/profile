@@ -28,71 +28,18 @@ This page contains a comprehensive list of my academic publications, conference 
 
 ---
 
-## Conference Papers & Proceedings
-
-### Upcoming Conference Presentations
-
-Research presentations planned as PhD dissertation progresses and SCAN/SCANUE development reaches publication-ready milestones.
-
----
-
-## Preprints & Working Papers
-
-### Future Research
-PhD dissertation in progress at Capitol Technology University focusing on cognitive augmentation systems.
-
----
-
-## Books & Book Chapters
-
-### Future Publications
-Potential book chapters on cognitive augmentation and human-AI collaboration may be developed based on PhD research outcomes.
-
----
-
-## Technical Reports & White Papers
-
-### Research Documentation
-Technical documentation and reports will be developed as part of SCAN/SCANUE research dissemination strategy.
-
----
-
-## Conference Presentations & Talks
-
-### Planned Presentations
-
-Conference presentations and invited talks will be scheduled as PhD research progresses and SCAN/SCANUE findings become available for academic dissemination.
-
----
-
-## Editorial & Review Activities
-
-### Future Service
-Peer review service and editorial activities will be pursued as research career develops and expertise in cognitive augmentation becomes established in the academic community.
-
----
-
-## Media Coverage & Public Engagement
-
-### Future Media Engagement
-
-As SCAN/SCANUE research develops and publications become available, media appearances and public outreach opportunities will be pursued to disseminate cognitive augmentation research findings.
-
----
-
 ## Grants & Research Funding
 
 ### Current Funding
 - PhD research supported through Capitol Technology University program
 - Industry partnerships providing resources for SCAN/SCANUE development and testing
 
----
-
 ## Research Metrics & Impact
 
-### Academic Impact Development
-
-Citation metrics and research impact measures will be established as publications become available and the research career progresses. Focus remains on developing high-quality, impactful research in cognitive augmentation.
+### Academic Impact
+- **Published Research**: "Beyond Intelligence: The Synthetic Cognitive Augmentation Network Using Experts" available through IGI Global
+- **Research Focus**: Cognitive augmentation and human-AI collaboration
+- **Current Status**: Active PhD research at Capitol Technology University
 
 ---
 
@@ -130,6 +77,6 @@ Citation metrics and research impact measures will be established as publication
 
 *Publication list last updated: December 2024*
 
-**Note**: As PhD research progresses, additional publications and academic profiles will be established and linked here.
+**Note**: This page reflects current published work and will be updated as additional research is published.
 
 **Contact**: For collaboration opportunities, requests for reprints, or questions about publications, please contact me through the information provided on this site.
