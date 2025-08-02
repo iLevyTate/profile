@@ -1,0 +1,21 @@
+User-agent: *
+Allow: /
+
+# Sitemap location
+Sitemap: https://levytate.github.io/profile/sitemap.xml
+
+# Allow search engines to index academic and research content
+Allow: /about/
+Allow: /research/
+Allow: /publications/
+Allow: /cv/
+Allow: /projects/
+
+# Disallow any admin or temporary directories
+Disallow: /assets/
+Disallow: /_site/
+Disallow: /.git/
+
+# Academic profile optimization
+# This site contains academic research and professional information
+# for Ben Kennedy, PhD Candidate in Artificial Intelligence
