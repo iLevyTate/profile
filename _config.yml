@@ -18,7 +18,7 @@ description              : "PhD Candidate in Artificial Intelligence specializin
 url                      : "https://levytate.github.io"
 baseurl                  : "/profile"
 repository               : "levytate/profile"
-teaser                   : "/assets/images/teaser-default.jpg"
+teaser                   : # path of fallback teaser image
 logo                     : # path of logo image to use in masthead
 masthead_title           : "Ben Kennedy"
 breadcrumbs              : true
@@ -27,7 +27,7 @@ words_per_minute         : 200
 # Site Author
 author:
   name             : "Ben Kennedy"
-  avatar           : "/assets/images/bio-photo.jpg"
+  avatar           : # path of avatar image
   bio              : "PhD Candidate in AI | Developer of SCAN/SCANUE | Empowering Cognition with Advanced AI"
   location         : "Jamestown, North Carolina"
   email            : "benjaminjoelkennedy+linkedin@gmail.com"
