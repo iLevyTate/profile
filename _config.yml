@@ -12,9 +12,9 @@
 locale                   : "en-US"
 title                    : "Ben Kennedy"
 title_separator          : "|"
-subtitle                 : "PhD Candidate | AI Researcher & Developer (SCAN/SCANUE/STAC)"
+subtitle                 : "PhD Candidate | AI Researcher & Developer"
 name                     : "Ben Kennedy"
-description              : "PhD Candidate in Artificial Intelligence specializing in cognitive augmentation through SCAN & SCANUE systems. Empowering human cognition with advanced AI solutions."
+description              : "PhD Candidate in Artificial Intelligence specializing in cognitive augmentation through SCAN & SCANUE systems. Published researcher and experienced project manager."
 url                      : "https://levytate.github.io"
 baseurl                  : "/profile"
 repository               : "levytate/profile"
@@ -23,6 +23,18 @@ logo                     : # path of logo image to use in masthead
 masthead_title           : "Ben Kennedy"
 breadcrumbs              : true
 words_per_minute         : 200
+search                   : true # Enable site-wide search
+search_full_content      : true # Search page content, not just titles
+search_provider          : lunr # Use Lunr search engine
+
+# SEO and Social Media
+og_image                 : # Open Graph default image
+social:
+  type                   : Person # Person or Organization (defaults to Person)
+  name                   : Ben Kennedy # If the user or organization name differs from the site's name
+  links:
+    - "https://www.linkedin.com/in/benjaminjoelkennedy"
+    - "https://github.com/levytate"
 
 # Site Author
 author:
@@ -135,6 +147,7 @@ plugins:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # mimic GitHub Pages with --safe
 whitelist:
@@ -143,6 +156,7 @@ whitelist:
   - jekyll-gist
   - jekyll-feed
   - jekyll-include-cache
+  - jekyll-seo-tag
 
 # Archives
 category_archive:
@@ -159,9 +173,14 @@ compress_html:
   ignore:
     envs: development
 
+# Typography and Appearance
+typography:
+  font_family: "PT Serif" # Professional serif font for academic content
+  heading_font_family: "PT Sans" # Clean sans-serif for headings
+
 # Theme Settings
 remote_theme: "mmistakes/minimal-mistakes@4.24.0"  
-minimal_mistakes_skin: "default" # Standard theme for reliability
+minimal_mistakes_skin: "contrast" # Clean, professional with excellent readability
 
 # Defaults
 defaults:
@@ -183,6 +202,9 @@ defaults:
     values:
       layout: single
       author_profile: true
+      show_date: true
+      read_time: false
+      words_per_minute: 200
 
 # Collections
 collections:
