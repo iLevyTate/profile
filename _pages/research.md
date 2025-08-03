@@ -7,75 +7,110 @@ author_profile: true
 
 # Research Portfolio
 
-My research advances the field of artificial intelligence by developing cognitive augmentation systems that enhance human decision-making capabilities, addressing critical challenges at the intersection of neuroscience, computer science, and evolutionary psychology.
+Advancing artificial intelligence through **cognitive augmentation systems** that enhance human decision-making capabilities.
+
+**Focus**: Critical challenges at the intersection of neuroscience, computer science, and evolutionary psychology.
+
+---
 
 ## Doctoral Research Program
 
-### PhD in Artificial Intelligence - Capitol Technology University (2024-2027)
-**Dissertation Focus**: "Synthetic Cognitive Augmentation Networks: Bridging Evolutionary Mismatch Through AI-Human Symbiosis"
+### 🎓 PhD in Artificial Intelligence
+**Capitol Technology University** (2024-2027)
 
-**Research Advisor**: Capitol Technology University AI Research Faculty
-**Expected Completion**: November 2027
+**Dissertation**: *"Synthetic Cognitive Augmentation Networks: Bridging Evolutionary Mismatch Through AI-Human Symbiosis"*
+
+📅 **Expected Completion**: November 2027  
+👨‍🏫 **Research Advisor**: Capitol Technology University AI Research Faculty
 
 ## Primary Research Projects
 
-### SCAN (Synthetic Cognitive Augmentation Network)
-**Objective**: Develop AI architectures that simulate prefrontal cortex functions to augment human cognitive abilities in complex, high-stakes environments.
+### 🧠 SCAN (Synthetic Cognitive Augmentation Network)
 
-**Research Questions**:
-- How can AI systems effectively simulate prefrontal cortex functions for enhanced decision-making?
-- What are the optimal architectures for real-time cognitive support in dynamic environments?
-- How do we ensure seamless human-AI collaboration while maintaining human agency?
+**Objective**: Develop AI architectures that simulate **prefrontal cortex functions** to augment human cognitive abilities in high-stakes environments.
 
-**Methodology**: 
-- Neural network development combining transformer architectures with cognitive modeling
-- Real-time processing optimization for web-based AI systems
-- Human-computer interaction design principles
-- Longitudinal user studies in business and healthcare environments
+#### Core Research Questions
+❓ How can AI effectively simulate prefrontal cortex functions for enhanced decision-making?  
+❓ What are optimal architectures for real-time cognitive support in dynamic environments?  
+❓ How do we ensure seamless human-AI collaboration while maintaining human agency?
 
-**Key Innovations**:
-- First comprehensive framework for prefrontal cortex simulation in AI systems
-- Novel approach to evolutionary mismatch solutions through cognitive enhancement
-- Integration of cognitive psychology principles with modern AI architectures
+#### Methodology
+🔬 Neural network development (transformer architectures + cognitive modeling)  
+⚡ Real-time processing optimization for web-based AI systems  
+🤝 Human-computer interaction design principles  
+📊 Longitudinal user studies (business + healthcare environments)
 
-**Applications**: Healthcare diagnostics, business intelligence, strategic planning, educational enhancement
+#### Key Innovations
+✅ **First comprehensive framework** for prefrontal cortex simulation in AI  
+✅ **Novel approach** to evolutionary mismatch solutions through cognitive enhancement  
+✅ **Integration** of cognitive psychology principles with modern AI architectures
 
-### SCANUE (SCAN User Experience Platform)
-**Objective**: Create accessible, web-based cognitive augmentation tools that provide real-time, user-specific cognitive support through intuitive interfaces.
+#### Applications
+🏥 Healthcare diagnostics  
+📊 Business intelligence  
+🎯 Strategic planning  
+📚 Educational enhancement
 
-**Technical Innovation**:
-- Web-based delivery of AI-powered cognitive enhancement with sub-second response times
-- Adaptive user interfaces that learn from individual cognitive patterns
-- Scalable deployment strategies for enterprise environments
-- Privacy-first architecture ensuring data security and user control
+### 💻 SCANUE (SCAN User Experience Platform)
 
-**Research Contributions**:
-- Development of intuitive cognitive augmentation interfaces
-- Real-time processing optimization for distributed AI systems
-- User experience design methodologies for human-AI collaboration
-- Empirical studies on cognitive load reduction in complex tasks
+**Objective**: Create accessible, web-based cognitive augmentation tools with **real-time, user-specific** cognitive support.
 
-### Evolutionary Mismatch Research
-**Research Focus**: Investigating how modern cognitive demands exceed the brain's evolved capacities and developing AI solutions to bridge this evolutionary gap.
+#### Technical Innovation
+⚡ **Sub-second response times** for AI-powered cognitive enhancement  
+🧠 **Adaptive interfaces** that learn from individual cognitive patterns  
+🏢 **Scalable deployment** strategies for enterprise environments  
+🔒 **Privacy-first architecture** ensuring data security + user control
 
-**Core Hypothesis**: The human brain, evolved for small-group hunter-gatherer societies, faces systematic challenges in processing the complexity and volume of information in modern environments. AI-powered cognitive augmentation can serve as an external prefrontal cortex, enhancing human decision-making without replacing human judgment.
+#### Research Contributions
+🎨 Intuitive cognitive augmentation interface development  
+⚡ Real-time processing optimization for distributed AI systems  
+👥 User experience design methodologies for human-AI collaboration  
+📊 Empirical studies on cognitive load reduction in complex tasks
 
-**Methodology**:
-- Cognitive psychology research combined with AI system development
-- Comparative analysis of decision-making performance across different cognitive augmentation approaches
-- Longitudinal studies measuring cognitive load reduction and decision quality improvement
+---
+
+### 🧬 Evolutionary Mismatch Research
+
+**Focus**: How modern cognitive demands exceed brain's evolved capacities + developing AI solutions.
+
+#### Core Hypothesis
+🧠 **Ancient brains** evolved for small hunter-gatherer groups  
+📊 **Modern environments** = systematic challenges processing complexity/volume  
+🤖 **AI-powered cognitive augmentation** = external prefrontal cortex  
+✅ **Enhance** (not replace) human decision-making
+
+#### Methodology
+🔬 Cognitive psychology research + AI system development  
+📊 Comparative analysis of decision-making performance across cognitive augmentation approaches  
+📈 Longitudinal studies measuring cognitive load reduction + decision quality improvement
 
 ## Published Work & Academic Contributions
 
 ### Peer-Reviewed Publications
 
+### 📚 Published Research
+
 **Kennedy, B.** et al. (2024). ["Beyond Intelligence: The Synthetic Cognitive Augmentation Network Using Experts."](https://www.igi-global.com/chapter/beyond-intelligence/380428) *IGI Global*.
 
-**Abstract**: This chapter presents the development of SCAN (Synthetic Cognitive Augmentation Network) and SCANUE, innovative AI systems designed to simulate prefrontal cortex functions and enhance human decision-making, problem-solving, and planning capabilities. The research addresses evolutionary mismatch challenges where modern cognitive demands exceed the brain's evolved capacities.
+#### Abstract
+Development of **SCAN** and **SCANUE** → innovative AI systems simulating prefrontal cortex functions to enhance:
+- Human decision-making
+- Problem-solving  
+- Planning capabilities
 
-**Keywords**: Cognitive Augmentation, Artificial Intelligence, Prefrontal Cortex Simulation, Human-AI Collaboration, Evolutionary Mismatch
+**Addresses**: Evolutionary mismatch challenges where modern cognitive demands exceed brain's evolved capacities.
 
-**Research Impact**: Groundbreaking research in cognitive enhancement technology with applications in high-stakes decision-making environments across healthcare, business, and educational sectors.
+#### Keywords
+🔬 Cognitive Augmentation  
+🤖 Artificial Intelligence  
+🧠 Prefrontal Cortex Simulation  
+🤝 Human-AI Collaboration  
+🧬 Evolutionary Mismatch
+
+#### Research Impact
+🎯 **Groundbreaking** cognitive enhancement technology  
+🏥 **Applications** in healthcare, business, educational sectors  
+⚡ **High-stakes** decision-making environments
 
 ## Research Areas & Expertise
 
