@@ -1,6 +1,6 @@
 ---
 layout: single
-author_profile: true
+author_profile: false
 title: "Ben Kennedy - PhD Candidate in AI & Cognitive Augmentation"
 excerpt: "PhD Candidate in Artificial Intelligence developing cognitive augmentation systems. Published researcher and experienced project manager with 22% faster delivery rates."
 header:
